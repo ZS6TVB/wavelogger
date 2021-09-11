@@ -18,9 +18,9 @@ In a terminal on the Rasperry Pi, run:
 
 `sudo raspi-config`
 
-choose: 
+Choose: 
 
-`3 Interface Options  >>  P5 I2c  >>  YES  >> OK  >> Finish`
+`3 Interface Options  -->  P5 I2c  -->  YES  --> OK  --> Finish`
 
 
 #### 2. Upgrade your Raspberry Pi and Install git, SMBUS for Python3
