@@ -62,6 +62,7 @@ Should you wish to display the output of the log file whilst logging, in another
 `cd ~/wavelogger`
 
 `tail -f examplelogfile.csv`
+
 Press ^c to exit.
 
 To stop logging, return to the original terminal where wavelogger.py was originally executed executed and press ^c.
