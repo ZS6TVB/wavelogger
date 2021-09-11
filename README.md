@@ -23,7 +23,7 @@ Choose:
 `3 Interface Options  >>  P5 I2c  >>  YES  >> OK  >> Finish`
 
 
-#### 2. Upgrade your Raspberry Pi and Install git, SMBUS for Python3
+#### 2. Upgrade your Raspberry Pi, install git and SMBUS for Python3
 
 In a terminal on the Raspberry Pi, run:
 
