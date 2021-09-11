@@ -1,6 +1,6 @@
 # wavelogger
 ## Measure and log 4 channels Volt (V), Current (I) and Power (P) measurements with a WaveShare Current / Power Monitor HAT on a Raspberry Pi
-The output format of the logging script has been optimised for a Comma Separated Value (CSV) format that may easily be imported into Microsoft Excel for further analysis or graphing.
+The output format of the logging script has been optimised for a Comma Separated Value (CSV) format that may be easily imported into Microsoft Excel for further analysis or graphing.
 ## The manufacturer link to the WaveShare Current / Power Monitor HAT is:
 https://www.waveshare.com/current-power-monitor-hat.htm
 ## The HAT is available in South Africa through the following link:
