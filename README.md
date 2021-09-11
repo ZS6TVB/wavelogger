@@ -73,7 +73,7 @@ To import your logs to Microsoft Excel for further analysis or graphing, simply 
 By default, the log sample rate of the wavelogger.py script has been configured to take one sample every second.  The sample rate is determined by the `time.sleep(1)` variable on the second last line in the script.  In order to change the sampling rate, simply use your favourite editor and change the parameter to suit your requirement.  The following examples should provide a guidelines of how to change the `time.sleep(1)` value for sample rates required.
 
 
-Sample once every second (default behaviour)
+Sample once every second (default behaviour):
 
 `time.sleep(1)`
 
@@ -93,7 +93,7 @@ Sample 4 times every second:
 `time.sleep(.25)`
 
 
-Sample twice per second
+Sample twice per second:
 
 `time.sleep(.5)`
 
