@@ -1,7 +1,7 @@
-# wavelogger
+# wavelogger.py
 ## Measure and log 4 channel Volt (V), Current (I) and Power (P) readings with a WaveShare Current / Power Monitor HAT on a Raspberry Pi.
-The output format of the logging script has been optimised for a Comma Seperated (CSV) format that may be easily imported to MS Excel for further analysis or graphing.
-### The power monitor HAT used was this one:
+The output format of the logging script has been optimised for a Comma Separated Value (CSV) format that may easily be imported to MS Excel for further analysis or graphing.
+### The manufacturer link to the WaveShare Current / Power Monitor HAT is here:
 https://www.waveshare.com/current-power-monitor-hat.htm
 ### The HAT is available in South Africa at the following link:
 https://www.robotics.org.za/W17539?search=W17539
@@ -57,20 +57,20 @@ To log to a file to be imported into Microsoft Excel, execute wavelogger in a te
 
 `./wavelogger.py > examplelogfile.csv`
 
-Should you wish to display the output of the log file whilst logging, in another termalal on the same Raspberry Pi, execute the following commands:
+Should you wish to display the output of the log file whilst logging, in another terminal on the same Raspberry Pi, execute the following commands:
 
 `cd ~/wavelogger`
 
 `tail -f examplelogfile.csv`
 Press ^c to exit.
 
-To stop logging, go back to the original terminal where wavelogger.py was executed and press ^c
+To stop logging, go back to the original terminal where wavelogger.py was executed and press ^c.
 
 ## Importing to Microsoft Excel
-To imoport your logs to Microsoft Excel for further analysis or graphing, simply transfer the log file: e.g. examplelogfile.csv to the PC with Excel and open it wit Excel.
+To import your logs to Microsoft Excel for further analysis or graphing, simply transfer the log file e.g. examplelogfile.csv to the PC where Microsoft Excel is installed and open it in Excel.
 
 ## Log sample rate
-By default, the log sample rate of the wavelogger.py script has been set to take one sample every second.  The sample rate is determined by the `time.sleep(1)` variable on the second last line in the script.  In order to change the sampling rate, simply use your favourite editor and change the parameter to suit your values.  The following examples should provide a guidelines of how to change the `time.sleep(1)` value for desired sample rates.
+By default, the log sample rate of the wavelogger.py script has been configured to take one sample every second.  The sample rate is determined by the `time.sleep(1)` variable on the second last line in the script.  In order to change the sampling rate, simply use your favourite editor and change the parameter to suit your requirement.  The following examples should provide a guidelines of how to change the `time.sleep(1)` value for sample rates required.
 
 
 Sample once every second (default behaviour)
