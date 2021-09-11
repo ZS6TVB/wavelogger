@@ -64,7 +64,7 @@ Should you wish to display the output of the log file whilst logging, in another
 `tail -f examplelogfile.csv`
 Press ^c to exit.
 
-To stop logging, go back to the original terminal where wavelogger.py was executed and press ^c.
+To stop logging, return to the original terminal where wavelogger.py was originally executed executed and press ^c.
 
 ## Importing to Microsoft Excel
 To import your logs to Microsoft Excel for further analysis or graphing, simply transfer the log file e.g. examplelogfile.csv to the PC where Microsoft Excel is installed and open it in Excel.
