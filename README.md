@@ -71,7 +71,7 @@ To stop logging, return to the original terminal where wavelogger.py was origina
 To import your logs to Microsoft Excel for graphing or further analysis, simply transfer the log file e.g. examplelogfile.csv to the PC where Microsoft Excel is installed and open it in Excel.
 
 ## Log sample rate
-By default, the log sample rate of the wavelogger.py script has been configured to take one sample every second.  The sample rate is determined by the `time.sleep(1)` variable on the second last line in the script.  In order to change the sampling rate, simply use your favourite editor and change the parameter to suit your needs.  The following examples should provide a guideline of how to configure the `time.sleep(1)` value for the sample rates required.
+By default, the log sample rate of the wavelogger.py script has been configured to take one sample every second.  The sample rate is determined by the `time.sleep(1)` value on the second last line in the script.  In order to change the sampling rate, simply use your favourite editor and change the parameter to suit your needs.  The following examples should provide a guideline of how to configure the `time.sleep(1)` value for the sample rates best suited for your needs.
 
 
 Sample once every second (default behaviour):
