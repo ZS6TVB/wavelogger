@@ -77,17 +77,21 @@ Sample once every second (default behaviour)
 
 `time.sleep(1)`
 
+
 Sample once per minute:
 
 `time.sleep(60)`
+
 
 Sample once every 30 seconds:
 
 `time.sleep(30)`
 
+
 Sample 4 times every second:
 
 `time.sleep(.25)`
+
 
 Sample twice per second
 
