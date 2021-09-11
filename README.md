@@ -7,7 +7,7 @@ https://www.waveshare.com/current-power-monitor-hat.htm
 https://www.robotics.org.za/W17539?search=W17539
 ### Example of a WaveShare HAT mounted on a Raspberry Pi Zero W with probes on all four channels.
 ![WaveShare HAT on Raspberry Pi Zero W with probes connected](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_hat_pizerow.png)
-### Example connection diagram of the WaveShare HAT, connected to a load to measure V, I and P on one channel.
+### Example connection diagram. The WaveShare HAT connected to a load to measure V, I and P on one channel.
 ![Wiring Diagram - Connection on one channel](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_wiring_diagram.png)
 
 
@@ -65,7 +65,7 @@ Should you wish to display the output of the log file whilst logging, in another
 
 Press ^c to exit.
 
-To stop logging, return to the original terminal where wavelogger.py was originally executed executed and press ^c.
+To stop logging, return to the original terminal where wavelogger.py was originally executed and press ^c.
 
 ## Importing to Microsoft Excel
 To import your logs to Microsoft Excel for further analysis or graphing, simply transfer the log file e.g. examplelogfile.csv to the PC where Microsoft Excel is installed and open it in Excel.
