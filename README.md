@@ -51,7 +51,7 @@ The script was designed to output Microsoft Excel compatible files on the termin
 
 `./wavelogger.py`
 
-To log to a file to be imported into Microsoft Excel, execute wavelogger in a terminal as shown in the following example:
+To log to a file for later import into Microsoft Excel, execute wavelogger in a terminal as shown in the following example:
 
 `cd ~/wavelogger`
 
