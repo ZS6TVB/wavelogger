@@ -1,9 +1,9 @@
 # wavelogger
-## Measure and/or log 4 channel Volt (V), Current (I) and Power (P) readings with a WaveShare Current / Power Monitor HAT on a Raspberry Pi.
+## Measure and / or log 4 channel Volt (V), Current (I) and Power (P) readings with a WaveShare Current / Power Monitor HAT on a Raspberry Pi.
 The output format of the logging script has been optimised for a Comma Separated Value (CSV) format that may easily be imported to Microsoft Excel for further analysis or graphing.
 ### The manufacturer link to the WaveShare Current / Power Monitor HAT is here:
 https://www.waveshare.com/current-power-monitor-hat.htm
-### The HAT is available in South Africa at the following link:
+### The HAT is available in South Africa through the following link:
 https://www.robotics.org.za/W17539?search=W17539
 ### Example of a WaveShare HAT mounted on a Raspberry Pi Zero W with probes connected.
 ![WaveShare HAT on Raspberry Pi Zero W with probes connected](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_hat_pizerow.png)
