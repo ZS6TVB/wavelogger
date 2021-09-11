@@ -30,7 +30,7 @@ In a terminal on the Raspberry Pi, run:
 `sudo apt update && sudo apt upgrade -y && sudo apt -y install python3-smbus git`
 
 ## Installation on a Raspberry Pi
-Installation is extremely simple.  There is only one Python3 script named `wavelogger.py`.  To install the script, copy or downoad it to a directory on your Raspberry Pi or clone it from this git repository.
+Installation is simple.  There is only one Python3 script named `wavelogger.py`.  To install the script, copy or downoad it to a directory on your Raspberry Pi or clone it from this git repository.
 
 To clone the script to your Raspberry Pi using git, run the following commands in a terminal on your Raspberry Pi:
 
