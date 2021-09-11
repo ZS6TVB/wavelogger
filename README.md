@@ -7,7 +7,7 @@ https://www.waveshare.com/current-power-monitor-hat.htm
 https://www.robotics.org.za/W17539?search=W17539
 ### Example of a WaveShare HAT mounted on a Raspberry Pi Zero W with probes on all four channels
 ![WaveShare HAT on Raspberry Pi Zero W with probes connected](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_hat_pizerow.png)
-### Example connection diagram. The WaveShare HAT connected to a load to measure V, I and P on one channel
+### Example connection diagram. The WaveShare HAT is connected to a load to measure V, I and P on one channel
 ![Wiring Diagram - Connection on one channel](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_wiring_diagram.png)
 
 
