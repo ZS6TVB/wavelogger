@@ -9,6 +9,8 @@ The WaveShare HAT INA219 chips are configured to measure a maximum voltage of 32
 https://www.waveshare.com/current-power-monitor-hat.htm
 ## The HAT is available in South Africa through the following link:
 https://www.robotics.org.za/W17539?search=W17539
+### Probes and probe wires were obtained from my frendly local electronics store:
+https://electronicsfg.co.za/
 ### Example of a WaveShare HAT mounted on a Raspberry Pi Zero W with probes on all four channels
 ![WaveShare HAT on Raspberry Pi Zero W with probes connected](https://github.com/ZS6TVB/wavelogger/blob/main/img/waveshare_hat_pizerow.png)
 ### Example connection diagram. The WaveShare HAT is connected to a load to measure V, I and P on one channel
