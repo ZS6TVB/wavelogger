@@ -13,7 +13,7 @@ https://www.waveshare.com/current-power-monitor-hat.htm
 https://www.robotics.org.za/W17539?search=W17539
 ##  
 
-## Probes and probe wires were obtained from my frendly local electronics store:
+## Probes and probe wires were obtained from my friendly local electronics store:
 https://electronicsfg.co.za/
 ##  
 
